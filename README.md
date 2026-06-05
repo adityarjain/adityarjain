@@ -6,7 +6,7 @@
 <br/>
 
 <!-- Badges Row -->
-<a href="https://linkedin.com/in/aditya-raj-jain">
+<a href="[https://www.linkedin.com/in/arajjain/]">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
@@ -227,7 +227,7 @@ Problems I'm here to solve:
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/Reach%20Out%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-raj-jain)
+[![LinkedIn](https://img.shields.io/badge/Reach%20Out%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arajjain/)
 
 <br/>
 

@@ -46,7 +46,7 @@ aditya@github:~$ _
 
 **🧬 Been**
 - ⚙️ Built a **Kafka-style message broker** from scratch in Java
-- 🏆 Hackathon winner · 2× case-competition winner · Top 20 @ Ideathon 2025
+- 🏆 3× hackathon winner · 3× case-competition winner · Top 15 @ Ideathon 2025
 - 🥇 Student Excellence Award (SEA 2025)
 
 </td>
@@ -127,11 +127,11 @@ aditya@github:~$ _
 
 | 🥇 Hackathon Winner | 🏅 Hackathon Finalist | 🏆 Case Competition |
 |:-:|:-:|:-:|
-| **1×** | **Multiple** | **2× Winner** |
+| **3×** | **Multiple** | **3× Winner** |
 
-| 💡 Ideathon 2025 | ⭐ Student Excellence | 🔤 Spell Bee |
-|:-:|:-:|:-:|
-| **Top 20** | **SEA 2025** | **State level** |
+| 💡 Ideathon 2025 | ⭐ Student Excellence |
+|:-:|:-:|
+| **Top 15** | **SEA 2025** |
 
 </div>
 
@@ -146,10 +146,6 @@ aditya@github:~$ _
 | 📈 | Financial Markets | Coursera | ✅ Completed |
 | 🧭 | Leadership Skills | Coursera | ✅ Completed |
 | 📋 | Project Management | Coursera | ✅ Completed |
-| 🏦 | BlackRock | Forage | 🔄 In progress |
-| 💰 | Goldman Sachs | Forage | 🔄 In progress |
-| 🏙️ | JPMorgan | Forage | 🔄 In progress |
-| 🏛️ | Citi | Forage | 🔄 In progress |
 
 </div>
 
@@ -163,33 +159,6 @@ aditya@github:~$ _
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityarjain&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top languages"/>
 
 <img src="https://streak-stats.demolab.com?user=adityarjain&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub streak"/>
-
-</div>
-
-<br/>
-
-## 🎯 Focus Map
-
-<div align="center">
-
-```text
-Aditya
-├── Finance
-│   ├── Equity Research
-│   ├── Portfolio Theory
-│   ├── Behavioral Finance
-│   └── Financial Modeling
-├── Technology
-│   ├── System Design
-│   ├── Distributed Systems
-│   ├── AI Product Dev
-│   └── Kafka & Streaming
-└── Building
-    ├── Startup Execution
-    ├── Product Development
-    ├── FinTech Platforms
-    └── Open Source
-```
 
 </div>
 

@@ -11,8 +11,6 @@
 <a href="https://www.linkedin.com/in/arajjain/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <img src="https://img.shields.io/badge/B.Tech%20CSE-Manipal%20Jaipur-6E40C9?style=for-the-badge&logo=academia&logoColor=white" alt="B.Tech CSE"/>
 <img src="https://img.shields.io/badge/Batch%20of-2028-00D9FF?style=for-the-badge&labelColor=0D1117" alt="Batch of 2028"/>
-<img src="https://komarev.com/ghpvc/?username=adityarjain&style=for-the-badge&color=ff6b6b&label=PROFILE+VIEWS" alt="Profile views"/>
-
 </div>
 
 <br/>
@@ -174,24 +172,23 @@ aditya@github:~$ _
 
 <div align="center">
 
-```mermaid
-mindmap
-  root((Aditya))
-    Finance
-      Equity Research
-      Portfolio Theory
-      Behavioral Finance
-      Financial Modeling
-    Technology
-      System Design
-      Distributed Systems
-      AI Product Dev
-      Kafka & Streaming
-    Building
-      Startup Execution
-      Product Development
-      FinTech Platforms
-      Open Source
+```text
+Aditya
+├── Finance
+│   ├── Equity Research
+│   ├── Portfolio Theory
+│   ├── Behavioral Finance
+│   └── Financial Modeling
+├── Technology
+│   ├── System Design
+│   ├── Distributed Systems
+│   ├── AI Product Dev
+│   └── Kafka & Streaming
+└── Building
+    ├── Startup Execution
+    ├── Product Development
+    ├── FinTech Platforms
+    └── Open Source
 ```
 
 </div>

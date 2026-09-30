@@ -1,178 +1,182 @@
 <div align="center">
 
-<!-- Dynamic Typing Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&width=700&lines=Hey+there%2C+I'm+Aditya+Raj+Jain+%F0%9F%91%8B;Fintech+Builder+%7C+CS+Student+%7C+Founder-in-Making;Finance+%C3%97+AI+%C3%97+Blockchain+%C3%97+Code+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:6E40C9,100:00D9FF&height=230&section=header&text=Aditya%20Raj%20Jain&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Finance%20%C3%97%20AI%20%C3%97%20Blockchain%20%C3%97%20Code&descSize=20&descAlignY=62&descColor=00D9FF" alt="Aditya Raj Jain" width="100%"/>
 
-<br/>
-
-<!-- Badges Row -->
-<a href="[https://www.linkedin.com/in/arajjain/]">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://github.com/adityarjain">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=00D9FF&center=true&vCenter=true&width=720&height=40&lines=%3E+fintech+builder;%3E+CS+student+%40+Manipal+Jaipur;%3E+building+a+Kafka-style+broker+from+scratch;%3E+analysing+markets+%26+shipping+code;%3E+founder-in-making+%F0%9F%9A%80" alt="typing intro" />
 </a>
-&nbsp;
-<img src="https://img.shields.io/badge/B.Tech%20CSE-Manipal%20University%20Jaipur-blueviolet?style=for-the-badge&logo=academia&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Batch%20of-2028-00D9FF?style=for-the-badge"/>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=adityarajjain&style=for-the-badge&color=ff6b6b&label=PROFILE+VIEWS"/>
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/arajjain/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<img src="https://img.shields.io/badge/B.Tech%20CSE-Manipal%20Jaipur-6E40C9?style=for-the-badge&logo=academia&logoColor=white" alt="B.Tech CSE"/>
+<img src="https://img.shields.io/badge/Batch%20of-2028-00D9FF?style=for-the-badge&labelColor=0D1117" alt="Batch of 2028"/>
+<img src="https://komarev.com/ghpvc/?username=adityarjain&style=for-the-badge&color=ff6b6b&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
----
+<br/>
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║    > whoami                                                      ║
-║    Aditya Raj Jain — CS student, fintech builder,                ║
-║    market analyst, and full-time system thinker.                 ║
-║                                                                  ║
-║    > ls interests/                                               ║
-║    FinTech/  AI/  Blockchain/  Distributed-Systems/              ║
-║    Equity-Research/  Startups/  Backend-Engineering/             ║
-║                                                                  ║
-║    > cat mission.txt                                             ║
-║    Democratize financial knowledge.                              ║
-║    Build at the intersection of Finance, AI & Code.             ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
+```console
+aditya@github:~$ whoami
+Aditya Raj Jain: CS student, fintech builder, market analyst, system thinker.
+
+aditya@github:~$ cat mission.txt
+Democratize financial knowledge.
+Build at the intersection of Finance, AI & Code.
+
+aditya@github:~$ ls interests/
+FinTech/  AI/  Blockchain/  Distributed-Systems/  Equity-Research/  Startups/  Backend/
+
+aditya@github:~$ _
 ```
 
----
+<br/>
 
-## 🌌 About Me
-
-> *"I enjoy analyzing markets as much as I enjoy building software."*
-
-- 🎓 **B.Tech Computer Science Engineering** @ Manipal University Jaipur *(Class of 2028)*
-- 🏗️ **Building** a Crowdsourced Stock Market Research Platform (AI + Blockchain + Community)
-- ⚙️ **Built** a custom Kafka-style message broker from scratch in Java
-- 📈 **Obsessed with** financial markets, equity research & behavioral finance
-- 🌱 **Currently learning** System Design, DSA, Distributed Systems & Financial Modeling
-- 🏆 **Hackathon Winner** | 2x Case Competition Winner | Top 20 @ Ideathon 2025
-- 🥇 **Student Excellence Award (SEA 2025)** recipient
-- 💬 Ask me about **FinTech, Kafka, Java, Blockchain, Equity Research**
-
----
-
-## 🚀 Featured Projects
+## ⚡ Snapshot
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📊 Crowdsourced Market Research Platform
-> *The future of community-driven equity research*
-
-- 🤖 AI-powered sentiment analysis
-- ⛓️ Blockchain-based research verification
-- 🌐 Decentralized contributor ecosystem
-- 📡 Real-time market intelligence
-- 🧠 Community-validated insights
-
-`AI` `Blockchain` `FinTech` `Data` `Python` `Java`
+**🔭 Now**
+- 🏗️ Building a **crowdsourced stock-market research platform** (AI + Blockchain + Community)
+- 🌱 Learning **System Design · DSA · Distributed Systems · Financial Modeling**
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📨 Custom Kafka Message Broker
-> *Built the plumbing. From scratch.*
-
-- ⚡ Kafka-style distributed architecture
-- 📬 Event streaming from first principles
-- 🏗️ Deep-dive into messaging systems
-- 🔧 Pure Java implementation
-- 🧵 Concurrent producer-consumer model
-
-`Java` `Distributed Systems` `System Design` `Backend`
+**🧬 Been**
+- ⚙️ Built a **Kafka-style message broker** from scratch in Java
+- 🏆 Hackathon winner · 2× case-competition winner · Top 20 @ Ideathon 2025
+- 🥇 Student Excellence Award (SEA 2025)
 
 </td>
 </tr>
 </table>
 
----
+> 💬 *"I enjoy analyzing markets as much as I enjoy building software."*
+> Ask me about **FinTech · Kafka · Java · Blockchain · Equity Research**
 
-## 🛠️ Tech Stack
+<br/>
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 Crowdsourced Market Research Platform
+*Community-driven equity research, verified on-chain.*
+
+🤖 AI-powered sentiment analysis<br/>
+⛓️ Blockchain-based research verification<br/>
+🌐 Decentralized contributor ecosystem<br/>
+📡 Real-time market intelligence
+
+![AI](https://img.shields.io/badge/AI-6E40C9?style=flat-square)
+![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=flat-square&logo=bitcoin&logoColor=orange)
+![FinTech](https://img.shields.io/badge/FinTech-00D9FF?style=flat-square&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 📨 Custom Kafka Message Broker
+*Built the plumbing. From scratch.*
+
+⚡ Kafka-style distributed architecture<br/>
+📬 Event streaming from first principles<br/>
+🧵 Concurrent producer-consumer model<br/>
+🔧 Pure Java implementation
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Distributed](https://img.shields.io/badge/Distributed%20Systems-6E40C9?style=flat-square)
+![System Design](https://img.shields.io/badge/System%20Design-00D9FF?style=flat-square&logoColor=black)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🛠️ Arsenal
 
 <div align="center">
 
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<img src="https://skillicons.dev/icons?i=java,python,mysql,postgres,kafka,git,github&theme=dark" alt="tech stack"/>
 
-### Technologies & Tools
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=bitcoin&logoColor=orange)
-![AI/ML](https://img.shields.io/badge/AI%20%2F%20ML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+<br/><br/>
 
-### Concepts & Domains
-![OOP](https://img.shields.io/badge/OOP-0D1117?style=for-the-badge&logoColor=white)
-![System Design](https://img.shields.io/badge/System%20Design-00D9FF?style=for-the-badge&logoColor=black)
-![Distributed Systems](https://img.shields.io/badge/Distributed%20Systems-6E40C9?style=for-the-badge&logoColor=white)
-![Backend Dev](https://img.shields.io/badge/Backend%20Engineering-02569B?style=for-the-badge&logoColor=white)
-![DBMS](https://img.shields.io/badge/DBMS-FF4154?style=for-the-badge&logo=postgresql&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-0D1117?style=flat-square&labelColor=0D1117&color=30363d)
+![DBMS](https://img.shields.io/badge/DBMS-FF4154?style=flat-square)
+![Backend](https://img.shields.io/badge/Backend%20Engineering-02569B?style=flat-square)
+![System Design](https://img.shields.io/badge/System%20Design-00D9FF?style=flat-square&logoColor=black)
+![Distributed Systems](https://img.shields.io/badge/Distributed%20Systems-6E40C9?style=flat-square)
+![AI/ML](https://img.shields.io/badge/AI%20%2F%20ML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=flat-square&logo=bitcoin&logoColor=orange)
+![Equity Research](https://img.shields.io/badge/Equity%20Research-2ea043?style=flat-square)
 
 </div>
 
----
+<br/>
 
-## 🏆 Achievements & Highlights
+## 🏆 Trophy Case
 
-```
-🥇  Hackathon Winner          ................ 1x
-🏅  Hackathon Finalist        ................ Multiple
-🏆  Case Competition Winner   ................ 2x
-💡  Ideathon 2025             ................ Top 20 Finish
-⭐  Student Excellence Award  ................ SEA 2025
-🔤  State-Level Spell Bee     ................ Achieved
-```
+<div align="center">
 
----
+| 🥇 Hackathon Winner | 🏅 Hackathon Finalist | 🏆 Case Competition |
+|:-:|:-:|:-:|
+| **1×** | **Multiple** | **2× Winner** |
+
+| 💡 Ideathon 2025 | ⭐ Student Excellence | 🔤 Spell Bee |
+|:-:|:-:|:-:|
+| **Top 20** | **SEA 2025** | **State level** |
+
+</div>
+
+<br/>
 
 ## 📜 Certifications
 
-| Certificate | Platform | Status |
-|-------------|----------|--------|
-| 📈 Financial Markets | Coursera | ✅ Completed |
-| 🧭 Leadership Skills | Coursera | ✅ Completed |
-| 📋 Project Management | Coursera | ✅ Completed |
-| 🏦 BlackRock Forage | Forage | 🔄 In Progress |
-| 💰 Goldman Sachs Forage | Forage | 🔄 In Progress |
-| 🏙️ JPMorgan Forage | Forage | 🔄 In Progress |
-| 🏛️ Citi Forage | Forage | 🔄 In Progress |
+<div align="center">
 
----
+| | Certificate | Platform | Status |
+|:-:|---|---|:-:|
+| 📈 | Financial Markets | Coursera | ✅ Completed |
+| 🧭 | Leadership Skills | Coursera | ✅ Completed |
+| 📋 | Project Management | Coursera | ✅ Completed |
+| 🏦 | BlackRock | Forage | 🔄 In progress |
+| 💰 | Goldman Sachs | Forage | 🔄 In progress |
+| 🏙️ | JPMorgan | Forage | 🔄 In progress |
+| 🏛️ | Citi | Forage | 🔄 In progress |
+
+</div>
+
+<br/>
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=adityarajjain&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityarajjain&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=adityarjain&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" alt="GitHub stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityarjain&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top languages"/>
+
+<img src="https://streak-stats.demolab.com?user=adityarjain&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub streak"/>
 
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityarajjain&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
+<br/>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityarajjain&theme=tokyo-night&bg_color=0D1117&hide_border=true" alt="Activity Graph" />
-</div>
-
----
-
-## 🎯 Currently Exploring
+## 🎯 Focus Map
 
 <div align="center">
 
 ```mermaid
 mindmap
-  root((Aditya's Focus))
+  root((Aditya))
     Finance
       Equity Research
       Portfolio Theory
@@ -192,47 +196,45 @@ mindmap
 
 </div>
 
----
+<br/>
 
 ## 🌐 Long-Term Vision
 
-> **To build impactful fintech products that democratize access to financial knowledge, investment research, and market intelligence.**
+> **Build impactful fintech products that democratize access to financial knowledge, investment research, and market intelligence.**
 
-Problems I'm here to solve:
+| | Problem | Why it matters |
+|:-:|---|---|
+| 🌍 | **Financial Inclusion** | Investing knowledge should be accessible to everyone |
+| 🔍 | **Research Transparency** | Open, verifiable, community-driven market research |
+| 📚 | **Investor Education** | Bridge the retail ↔ institutional knowledge gap |
+| 🤖 | **AI-Powered Decisions** | Make data-driven investing the default |
 
-- 🌍 **Financial Inclusion** — Making investing knowledge accessible to everyone
-- 🔍 **Research Transparency** — Open, verifiable, community-driven market research
-- 📚 **Investor Education** — Bridging the gap between retail and institutional knowledge
-- 🤖 **AI-Powered Decisions** — Making data-driven investing the default, not the exception
-
----
+<br/>
 
 ## 🤝 Open To
 
 <div align="center">
 
-| 🧑‍💻 Hackathons | 🌍 Open Source | 🚀 Startup Collabs |
-|:-:|:-:|:-:|
-| **🧠 Research Projects** | **💼 FinTech Discussions** | **⚙️ SWE Opportunities** |
+![Hackathons](https://img.shields.io/badge/🧑‍💻%20Hackathons-0D1117?style=for-the-badge&labelColor=0D1117&color=00D9FF)
+![Open Source](https://img.shields.io/badge/🌍%20Open%20Source-0D1117?style=for-the-badge&labelColor=0D1117&color=6E40C9)
+![Startup Collabs](https://img.shields.io/badge/🚀%20Startup%20Collabs-0D1117?style=for-the-badge&labelColor=0D1117&color=ff6b6b)
+<br/>
+![Research](https://img.shields.io/badge/🧠%20Research%20Projects-0D1117?style=for-the-badge&labelColor=0D1117&color=00D9FF)
+![FinTech](https://img.shields.io/badge/💼%20FinTech%20Discussions-0D1117?style=for-the-badge&labelColor=0D1117&color=6E40C9)
+![SWE](https://img.shields.io/badge/⚙️%20SWE%20Opportunities-0D1117?style=for-the-badge&labelColor=0D1117&color=ff6b6b)
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
-### 📡 Let's Connect & Build Together
+### 📡 Let's build something
 
-*If you're working on something at the intersection of **Finance × AI × Blockchain × Code** — I want to hear about it.*
+*Working at the intersection of **Finance × AI × Blockchain × Code**? I want to hear about it.*
 
-<br/>
+[![LinkedIn](https://img.shields.io/badge/Reach%20out%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arajjain/)
 
-[![LinkedIn](https://img.shields.io/badge/Reach%20Out%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arajjain/)
-
-<br/>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Building%20the%20future%20of%20FinTech%20🚀&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=65" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:6E40C9,100:0D1117&height=140&section=footer&text=Building%20the%20future%20of%20FinTech&fontSize=22&fontColor=ffffff&animation=twinkling&fontAlignY=68" alt="footer" width="100%"/>
 
 </div>
